@@ -1,0 +1,15 @@
+/home/bhuvanesh/Desktop/EI/C#/hello/shopping mart/obj/Debug/net6.0/shopping mart.csproj.AssemblyReference.cache
+/home/bhuvanesh/Desktop/EI/C#/hello/shopping mart/obj/Debug/net6.0/shopping mart.GeneratedMSBuildEditorConfig.editorconfig
+/home/bhuvanesh/Desktop/EI/C#/hello/shopping mart/obj/Debug/net6.0/shopping mart.AssemblyInfoInputs.cache
+/home/bhuvanesh/Desktop/EI/C#/hello/shopping mart/obj/Debug/net6.0/shopping mart.AssemblyInfo.cs
+/home/bhuvanesh/Desktop/EI/C#/hello/shopping mart/obj/Debug/net6.0/shopping mart.csproj.CoreCompileInputs.cache
+/home/bhuvanesh/Desktop/EI/C#/hello/shopping mart/bin/Debug/net6.0/shopping mart
+/home/bhuvanesh/Desktop/EI/C#/hello/shopping mart/bin/Debug/net6.0/shopping mart.deps.json
+/home/bhuvanesh/Desktop/EI/C#/hello/shopping mart/bin/Debug/net6.0/shopping mart.runtimeconfig.json
+/home/bhuvanesh/Desktop/EI/C#/hello/shopping mart/bin/Debug/net6.0/shopping mart.dll
+/home/bhuvanesh/Desktop/EI/C#/hello/shopping mart/bin/Debug/net6.0/shopping mart.pdb
+/home/bhuvanesh/Desktop/EI/C#/hello/shopping mart/obj/Debug/net6.0/shopping mart.dll
+/home/bhuvanesh/Desktop/EI/C#/hello/shopping mart/obj/Debug/net6.0/refint/shopping mart.dll
+/home/bhuvanesh/Desktop/EI/C#/hello/shopping mart/obj/Debug/net6.0/shopping mart.pdb
+/home/bhuvanesh/Desktop/EI/C#/hello/shopping mart/obj/Debug/net6.0/shopping mart.genruntimeconfig.cache
+/home/bhuvanesh/Desktop/EI/C#/hello/shopping mart/obj/Debug/net6.0/ref/shopping mart.dll
