@@ -1,0 +1,15 @@
+/home/bhuvanesh/Desktop/EI/C#/hello/FacultyManagement/obj/Debug/net6.0/FacultyManagement.csproj.AssemblyReference.cache
+/home/bhuvanesh/Desktop/EI/C#/hello/FacultyManagement/obj/Debug/net6.0/FacultyManagement.GeneratedMSBuildEditorConfig.editorconfig
+/home/bhuvanesh/Desktop/EI/C#/hello/FacultyManagement/obj/Debug/net6.0/FacultyManagement.AssemblyInfoInputs.cache
+/home/bhuvanesh/Desktop/EI/C#/hello/FacultyManagement/obj/Debug/net6.0/FacultyManagement.AssemblyInfo.cs
+/home/bhuvanesh/Desktop/EI/C#/hello/FacultyManagement/obj/Debug/net6.0/FacultyManagement.csproj.CoreCompileInputs.cache
+/home/bhuvanesh/Desktop/EI/C#/hello/FacultyManagement/bin/Debug/net6.0/FacultyManagement
+/home/bhuvanesh/Desktop/EI/C#/hello/FacultyManagement/bin/Debug/net6.0/FacultyManagement.deps.json
+/home/bhuvanesh/Desktop/EI/C#/hello/FacultyManagement/bin/Debug/net6.0/FacultyManagement.runtimeconfig.json
+/home/bhuvanesh/Desktop/EI/C#/hello/FacultyManagement/bin/Debug/net6.0/FacultyManagement.dll
+/home/bhuvanesh/Desktop/EI/C#/hello/FacultyManagement/bin/Debug/net6.0/FacultyManagement.pdb
+/home/bhuvanesh/Desktop/EI/C#/hello/FacultyManagement/obj/Debug/net6.0/FacultyManagement.dll
+/home/bhuvanesh/Desktop/EI/C#/hello/FacultyManagement/obj/Debug/net6.0/refint/FacultyManagement.dll
+/home/bhuvanesh/Desktop/EI/C#/hello/FacultyManagement/obj/Debug/net6.0/FacultyManagement.pdb
+/home/bhuvanesh/Desktop/EI/C#/hello/FacultyManagement/obj/Debug/net6.0/FacultyManagement.genruntimeconfig.cache
+/home/bhuvanesh/Desktop/EI/C#/hello/FacultyManagement/obj/Debug/net6.0/ref/FacultyManagement.dll
