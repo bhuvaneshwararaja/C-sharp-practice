@@ -1,2 +1,4 @@
 #ignore all file in any directory bin
 bin/
+obj/
+*.csproj
